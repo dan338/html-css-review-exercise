@@ -1,0 +1,240 @@
+.box-1 {
+    height: 60px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box1-text {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'karla', ;
+    color: black;
+    margin-left: 180px;
+    display: flex;
+    align-content: center;
+}
+.box1-endtext {
+    list-style-type: none;
+    display: flex;
+    font-family: 'raleway', ;
+    font-weight: lighter;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    margin-left: 560px;
+}
+li {
+    margin: 20px;
+}
+#down  {
+  width: 160px;
+  height: 40px;
+  border-color: black;
+  border-style: double;
+  background-color: white;
+  text-align: center ;
+  padding-top: 5px ;
+}
+.box-2 {
+    height: 400px;
+    background-color: #000033;
+}
+.box2-undertext {
+    color: white;
+    font-family: ubuntu;
+    font-size: 25px;
+    margin-left: 180px;
+    width: 300px;
+    padding-top: 100px;
+}
+.box2-paratext {
+    font-size: 13px;
+}
+#up{
+    width: 100px;
+    height: 40px;
+    border-color: white;
+    border-style: double;
+    background-color: #000033;
+    text-align: center ;
+    padding-top: 20px;
+}
+.box2-img {
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    bottom: 150px;
+    right: 110px;
+}
+.box3-text {
+    color: black;
+    margin-left: 180px;
+    padding-top: 300px;
+    font-family: 'sawarabi mincho',;
+    font-size: 27px;
+}
+.box-4 {
+    height: 300px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.box4-blog1 {
+   flex-direction: column;
+   justify-content: stretch;
+   margin-left: 180px;
+}
+.blog1-img {
+    height: 40px;
+    width: 100px;
+    border-radius:50%;
+}
+.blog1-topic {
+    font-family: 'lobster two', ;
+    font-size: 20px;
+}
+.blog1-undertext {
+    font-size: 16px;
+    width: 200px;
+}
+.box4-blog2 {
+    flex-direction: column;
+    justify-content: stretch;
+    margin-left: 290px;
+}
+.blog2-img {
+    height: 40px;
+    width: 100px;
+    border-radius:50% ;
+}
+.blog2-topic {
+    font-family: 'lobster two', ;
+    font-size: 20px;
+}
+.blog2-undertext {
+    font-size: 16px;
+    width: 200px;
+}
+.box4-blog3 {
+    flex-direction: column;
+    justify-content: stretch;
+    margin-left: 290px;
+}
+.blog3-img {
+    height: 40px;
+    width: 100px;
+    border-radius:50% ;
+}
+.blog3-topic {
+    font-family: 'lobster two', ;
+    font-size: 20px;
+}
+.blog3-undertext {
+    font-size: 16px;
+    width: 200px;
+}
+.box-5 {
+    width: 1200px;
+    height: 200px;
+    background-color: #000033;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.box5-text {
+   font-family: 'Noto sans', ; 
+   font-size: 23px;
+   color: white;
+   width: 350px;
+   margin-left: 60px;
+   padding-top: 30px;
+}
+#work{
+    width: 150px;
+    height: 40px;
+    color: white;
+    font-size: 17px;
+    font-family: 'noto sans', ;
+    border-color: white;
+    border-style: double;
+    background-color: #000033;
+    text-align: center ;
+    padding-top: 30px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+.box-6 {
+    height: 100px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.box6-text {
+    font-size: 26px;
+    font-style: normal;
+    font-family: 'Trade winds', ;
+    margin-left: 180px;
+}
+.box6-img1 {
+    width: 60px;
+    height: 20px;
+    border-radius: 40%;
+    margin-left: 880px;
+    margin-top: 50px;
+}
+.box6-img2 {
+    width: 60px;
+    height: 20px;
+    border-radius: 40%;
+    margin-top: 50px;
+}
+.box6-img3 {
+    width: 60px;
+    height: 20px;
+    border-radius: 40%;
+    margin-top: 50px;
+}
+.box6-line {
+    border-top: 2px solid rgb(161, 158, 158);
+    width: 1200px;
+    margin-left: 180px;
+}
+.box7 {
+    height: 400px;
+    background-color:whitesmoke;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+ul {
+    list-style-type: none;
+    
+}
+.box7-blog1 {
+    margin-left: 180px;
+}
+.box7-blog2 {
+   margin-left: 150px;
+}
+.box7-blog3 {
+  margin-left: 150px;
+}
+.box7-blog4 {
+   margin-left: 150px;
+}
+#blog--1 {
+  color: grey;
+}
+#blog--2 {
+    color: grey;
+}
+#blog--3 {
+    color: grey;
+}
+#blog--4 {
+   color: grey;
+}
